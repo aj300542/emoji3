@@ -1,0 +1,30 @@
+
+# 物体 U+1F4B7_layer00_obj00 的独立材质
+newmtl mat_U+1F4B7_layer00_obj00
+Kd 0.511398 0.378676 0.835528
+Ks 0.2 0.2 0.2
+d 1
+
+# 物体 U+1F4B7_layer01_obj00 的独立材质
+newmtl mat_U+1F4B7_layer01_obj00
+Kd 0.124741 0.098689 0.302125
+Ks 0.2 0.2 0.2
+d 1
+
+# 物体 U+1F4B7_layer02_obj00 的独立材质
+newmtl mat_U+1F4B7_layer02_obj00
+Kd 1.000000 0.907547 0.190463
+Ks 0.2 0.2 0.2
+d 1
+
+# 物体 U+1F4B7_layer03_obj00 的独立材质
+newmtl mat_U+1F4B7_layer03_obj00
+Kd 0.899384 0.425905 0.119264
+Ks 0.2 0.2 0.2
+d 1
+
+# 物体 U+1F4B7_layer04_obj00 的独立材质
+newmtl mat_U+1F4B7_layer04_obj00
+Kd 1.000000 1.000000 1.000000
+Ks 0.2 0.2 0.2
+d 1

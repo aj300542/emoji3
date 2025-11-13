@@ -1,0 +1,24 @@
+
+# 物体 U+1F967_layer00_obj00 的独立材质
+newmtl mat_U+1F967_layer00_obj00
+Kd 0.124741 0.124741 0.124741
+Ks 0.2 0.2 0.2
+d 1
+
+# 物体 U+1F967_layer01_obj00 的独立材质
+newmtl mat_U+1F967_layer01_obj00
+Kd 0.759300 0.315763 0.060032
+Ks 0.2 0.2 0.2
+d 1
+
+# 物体 U+1F967_layer02_obj00 的独立材质
+newmtl mat_U+1F967_layer02_obj00
+Kd 0.899384 0.535642 0.201096
+Ks 0.2 0.2 0.2
+d 1
+
+# 物体 U+1F967_layer03_obj00 的独立材质
+newmtl mat_U+1F967_layer03_obj00
+Kd 0.659224 0.250840 0.044553
+Ks 0.2 0.2 0.2
+d 1

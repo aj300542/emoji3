@@ -1,0 +1,17 @@
+{
+  "emoji_char": "\u303d",
+  "emoji_code": "U+303D",
+  "layers": [
+    {
+      "layer_index": 0,
+      "glyph_name": "glyph03056",
+      "color": {
+        "r": 255,
+        "g": 176,
+        "b": 46
+      },
+      "hex": "#ffb02e",
+      "svg_file": "emoji_layer_00.svg"
+    }
+  ]
+}

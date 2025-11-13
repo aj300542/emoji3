@@ -1,0 +1,60 @@
+
+# 物体 U+1F3CD_layer00_obj00 的独立材质
+newmtl mat_U+1F3CD_layer00_obj00
+Kd 0.027755 0.007155 0.049433
+Ks 0.2 0.2 0.2
+d 1
+
+# 物体 U+1F3CD_layer01_obj00 的独立材质
+newmtl mat_U+1F3CD_layer01_obj00
+Kd 0.124741 0.124741 0.124741
+Ks 0.2 0.2 0.2
+d 1
+
+# 物体 U+1F3CD_layer02_obj00 的独立材质
+newmtl mat_U+1F3CD_layer02_obj00
+Kd 1.000000 0.227137 0.022013
+Ks 0.2 0.2 0.2
+d 1
+
+# 物体 U+1F3CD_layer03_obj00 的独立材质
+newmtl mat_U+1F3CD_layer03_obj00
+Kd 0.948965 0.024223 0.116576
+Ks 0.2 0.2 0.2
+d 1
+
+# 物体 U+1F3CD_layer04_obj00 的独立材质
+newmtl mat_U+1F3CD_layer04_obj00
+Kd 0.598942 0.000992 0.065754
+Ks 0.2 0.2 0.2
+d 1
+
+# 物体 U+1F3CD_layer05_obj00 的独立材质
+newmtl mat_U+1F3CD_layer05_obj00
+Kd 0.084642 0.031551 0.133209
+Ks 0.2 0.2 0.2
+d 1
+
+# 物体 U+1F3CD_layer06_obj00 的独立材质
+newmtl mat_U+1F3CD_layer06_obj00
+Kd 0.974300 0.673049 0.046149
+Ks 0.2 0.2 0.2
+d 1
+
+# 物体 U+1F3CD_layer07_obj00 的独立材质
+newmtl mat_U+1F3CD_layer07_obj00
+Kd 0.907547 0.907547 0.907547
+Ks 0.2 0.2 0.2
+d 1
+
+# 物体 U+1F3CD_layer08_obj00 的独立材质
+newmtl mat_U+1F3CD_layer08_obj00
+Kd 0.015175 0.592438 0.974300
+Ks 0.2 0.2 0.2
+d 1
+
+# 物体 U+1F3CD_layer09_obj00 的独立材质
+newmtl mat_U+1F3CD_layer09_obj00
+Kd 0.027755 0.007155 0.049433
+Ks 0.2 0.2 0.2
+d 1

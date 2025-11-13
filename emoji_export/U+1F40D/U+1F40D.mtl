@@ -1,0 +1,24 @@
+
+# 物体 U+1F40D_layer00_obj00 的独立材质
+newmtl mat_U+1F40D_layer00_obj00
+Kd 0.940601 0.026549 0.024223
+Ks 0.2 0.2 0.2
+d 1
+
+# 物体 U+1F40D_layer01_obj00 的独立材质
+newmtl mat_U+1F40D_layer01_obj00
+Kd 0.000000 0.652370 0.144972
+Ks 0.2 0.2 0.2
+d 1
+
+# 物体 U+1F40D_layer02_obj00 的独立材质
+newmtl mat_U+1F40D_layer02_obj00
+Kd 0.007751 0.007751 0.007751
+Ks 0.2 0.2 0.2
+d 1
+
+# 物体 U+1F40D_layer03_obj00 的独立材质
+newmtl mat_U+1F40D_layer03_obj00
+Kd 0.974300 0.673049 0.046149
+Ks 0.2 0.2 0.2
+d 1

@@ -1,0 +1,138 @@
+
+# 物体 U+1F57A_layer00_obj00 的独立材质
+newmtl mat_U+1F57A_layer00_obj00
+Kd 0.052842 0.039947 0.147998
+Ks 0.2 0.2 0.2
+d 1
+
+# 物体 U+1F57A_layer01_obj00 的独立材质
+newmtl mat_U+1F57A_layer01_obj00
+Kd 0.000000 0.293216 0.804559
+Ks 0.2 0.2 0.2
+d 1
+
+# 物体 U+1F57A_layer02_obj00 的独立材质
+newmtl mat_U+1F57A_layer02_obj00
+Kd 1.000000 0.585973 0.042987
+Ks 0.2 0.2 0.2
+d 1
+
+# 物体 U+1F57A_layer03_obj00 的独立材质
+newmtl mat_U+1F57A_layer03_obj00
+Kd 0.000000 0.197516 0.632043
+Ks 0.2 0.2 0.2
+d 1
+
+# 物体 U+1F57A_layer04_obj00 的独立材质
+newmtl mat_U+1F57A_layer04_obj00
+Kd 0.000000 0.388910 0.851252
+Ks 0.2 0.2 0.2
+d 1
+
+# 物体 U+1F57A_layer05_obj00 的独立材质
+newmtl mat_U+1F57A_layer05_obj00
+Kd 0.000000 0.293216 0.804559
+Ks 0.2 0.2 0.2
+d 1
+
+# 物体 U+1F57A_layer06_obj00 的独立材质
+newmtl mat_U+1F57A_layer06_obj00
+Kd 1.000000 0.136099 0.012664
+Ks 0.2 0.2 0.2
+d 1
+
+# 物体 U+1F57A_layer07_obj00 的独立材质
+newmtl mat_U+1F57A_layer07_obj00
+Kd 0.000000 0.388910 0.851252
+Ks 0.2 0.2 0.2
+d 1
+
+# 物体 U+1F57A_layer08_obj00 的独立材质
+newmtl mat_U+1F57A_layer08_obj00
+Kd 0.974300 0.447871 0.000000
+Ks 0.2 0.2 0.2
+d 1
+
+# 物体 U+1F57A_layer09_obj00 的独立材质
+newmtl mat_U+1F57A_layer09_obj00
+Kd 0.180144 0.751895 0.974300
+Ks 0.2 0.2 0.2
+d 1
+
+# 物体 U+1F57A_layer10_obj00 的独立材质
+newmtl mat_U+1F57A_layer10_obj00
+Kd 0.948965 0.093876 0.014311
+Ks 0.2 0.2 0.2
+d 1
+
+# 物体 U+1F57A_layer11_obj00 的独立材质
+newmtl mat_U+1F57A_layer11_obj00
+Kd 0.796917 0.796917 0.796917
+Ks 0.2 0.2 0.2
+d 1
+
+# 物体 U+1F57A_layer12_obj00 的独立材质
+newmtl mat_U+1F57A_layer12_obj00
+Kd 0.982826 0.505432 0.002586
+Ks 0.2 0.2 0.2
+d 1
+
+# 物体 U+1F57A_layer13_obj00 的独立材质
+newmtl mat_U+1F57A_layer13_obj00
+Kd 0.982826 0.505432 0.002586
+Ks 0.2 0.2 0.2
+d 1
+
+# 物体 U+1F57A_layer14_obj00 的独立材质
+newmtl mat_U+1F57A_layer14_obj00
+Kd 1.000000 0.585973 0.042987
+Ks 0.2 0.2 0.2
+d 1
+
+# 物体 U+1F57A_layer15_obj00 的独立材质
+newmtl mat_U+1F57A_layer15_obj00
+Kd 0.659224 0.163641 0.030257
+Ks 0.2 0.2 0.2
+d 1
+
+# 物体 U+1F57A_layer16_obj00 的独立材质
+newmtl mat_U+1F57A_layer16_obj00
+Kd 0.851252 0.293216 0.000000
+Ks 0.2 0.2 0.2
+d 1
+
+# 物体 U+1F57A_layer17_obj00 的独立材质
+newmtl mat_U+1F57A_layer17_obj00
+Kd 1.000000 1.000000 1.000000
+Ks 0.2 0.2 0.2
+d 1
+
+# 物体 U+1F57A_layer18_obj00 的独立材质
+newmtl mat_U+1F57A_layer18_obj00
+Kd 0.208360 0.056374 0.028991
+Ks 0.2 0.2 0.2
+d 1
+
+# 物体 U+1F57A_layer19_obj00 的独立材质
+newmtl mat_U+1F57A_layer19_obj00
+Kd 0.208360 0.056374 0.028991
+Ks 0.2 0.2 0.2
+d 1
+
+# 物体 U+1F57A_layer20_obj00 的独立材质
+newmtl mat_U+1F57A_layer20_obj00
+Kd 1.000000 1.000000 1.000000
+Ks 0.2 0.2 0.2
+d 1
+
+# 物体 U+1F57A_layer21_obj00 的独立材质
+newmtl mat_U+1F57A_layer21_obj00
+Kd 0.851252 0.293216 0.000000
+Ks 0.2 0.2 0.2
+d 1
+
+# 物体 U+1F57A_layer22_obj00 的独立材质
+newmtl mat_U+1F57A_layer22_obj00
+Kd 0.325037 0.000493 0.037029
+Ks 0.2 0.2 0.2
+d 1

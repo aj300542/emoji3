@@ -1,0 +1,17 @@
+{
+  "emoji_char": "\u26ab",
+  "emoji_code": "U+26AB",
+  "layers": [
+    {
+      "layer_index": 0,
+      "glyph_name": "glyph03296",
+      "color": {
+        "r": 0,
+        "g": 0,
+        "b": 0
+      },
+      "hex": "#000000",
+      "svg_file": "emoji_layer_00.svg"
+    }
+  ]
+}

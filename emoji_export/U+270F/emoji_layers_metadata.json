@@ -1,0 +1,61 @@
+{
+  "emoji_char": "\u270f",
+  "emoji_code": "U+270F",
+  "layers": [
+    {
+      "layer_index": 0,
+      "glyph_name": "glyph03549",
+      "color": {
+        "r": 255,
+        "g": 130,
+        "b": 45
+      },
+      "hex": "#ff822d",
+      "svg_file": "emoji_layer_00.svg"
+    },
+    {
+      "layer_index": 1,
+      "glyph_name": "glyph03550",
+      "color": {
+        "r": 255,
+        "g": 206,
+        "b": 124
+      },
+      "hex": "#ffce7c",
+      "svg_file": "emoji_layer_01.svg"
+    },
+    {
+      "layer_index": 2,
+      "glyph_name": "glyph03551",
+      "color": {
+        "r": 64,
+        "g": 42,
+        "b": 50
+      },
+      "hex": "#402a32",
+      "svg_file": "emoji_layer_02.svg"
+    },
+    {
+      "layer_index": 3,
+      "glyph_name": "glyph03552",
+      "color": {
+        "r": 249,
+        "g": 47,
+        "b": 96
+      },
+      "hex": "#f92f60",
+      "svg_file": "emoji_layer_03.svg"
+    },
+    {
+      "layer_index": 4,
+      "glyph_name": "glyph03553",
+      "color": {
+        "r": 211,
+        "g": 211,
+        "b": 211
+      },
+      "hex": "#d3d3d3",
+      "svg_file": "emoji_layer_04.svg"
+    }
+  ]
+}

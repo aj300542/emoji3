@@ -1,0 +1,28 @@
+{
+  "emoji_char": "\u261d",
+  "emoji_code": "U+261D",
+  "layers": [
+    {
+      "layer_index": 0,
+      "glyph_name": "glyph05967",
+      "color": {
+        "r": 255,
+        "g": 200,
+        "b": 61
+      },
+      "hex": "#ffc83d",
+      "svg_file": "emoji_layer_00.svg"
+    },
+    {
+      "layer_index": 1,
+      "glyph_name": "glyph05968",
+      "color": {
+        "r": 214,
+        "g": 125,
+        "b": 0
+      },
+      "hex": "#d67d00",
+      "svg_file": "emoji_layer_01.svg"
+    }
+  ]
+}

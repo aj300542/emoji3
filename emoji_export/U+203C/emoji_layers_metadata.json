@@ -1,0 +1,17 @@
+{
+  "emoji_char": "\u203c",
+  "emoji_code": "U+203C",
+  "layers": [
+    {
+      "layer_index": 0,
+      "glyph_name": "glyph02921",
+      "color": {
+        "r": 248,
+        "g": 49,
+        "b": 47
+      },
+      "hex": "#f8312f",
+      "svg_file": "emoji_layer_00.svg"
+    }
+  ]
+}

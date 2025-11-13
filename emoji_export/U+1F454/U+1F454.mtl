@@ -1,0 +1,30 @@
+
+# 物体 U+1F454_layer00_obj00 的独立材质
+newmtl mat_U+1F454_layer00_obj00
+Kd 0.078057 0.293216 1.000000
+Ks 0.2 0.2 0.2
+d 1
+
+# 物体 U+1F454_layer01_obj00 的独立材质
+newmtl mat_U+1F454_layer01_obj00
+Kd 0.015175 0.827726 0.974300
+Ks 0.2 0.2 0.2
+d 1
+
+# 物体 U+1F454_layer02_obj00 的独立材质
+newmtl mat_U+1F454_layer02_obj00
+Kd 0.052842 0.039947 0.147998
+Ks 0.2 0.2 0.2
+d 1
+
+# 物体 U+1F454_layer03_obj00 的独立材质
+newmtl mat_U+1F454_layer03_obj00
+Kd 0.659224 0.659224 0.659224
+Ks 0.2 0.2 0.2
+d 1
+
+# 物体 U+1F454_layer04_obj00 的独立材质
+newmtl mat_U+1F454_layer04_obj00
+Kd 0.907547 0.907547 0.907547
+Ks 0.2 0.2 0.2
+d 1

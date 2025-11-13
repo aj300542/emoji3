@@ -1,0 +1,17 @@
+{
+  "emoji_char": "\ud83c\udffc",
+  "emoji_code": "U+1F3FC",
+  "layers": [
+    {
+      "layer_index": 0,
+      "glyph_name": "glyph05959",
+      "color": {
+        "r": 238,
+        "g": 191,
+        "b": 170
+      },
+      "hex": "#eebfaa",
+      "svg_file": "emoji_layer_00.svg"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+
+# 物体 U+1F6AA_layer00_obj00 的独立材质
+newmtl mat_U+1F6AA_layer00_obj00
+Kd 0.759300 0.315763 0.060032
+Ks 0.2 0.2 0.2
+d 1
+
+# 物体 U+1F6AA_layer01_obj00 的独立材质
+newmtl mat_U+1F6AA_layer01_obj00
+Kd 0.659224 0.250840 0.044553
+Ks 0.2 0.2 0.2
+d 1
+
+# 物体 U+1F6AA_layer02_obj00 的独立材质
+newmtl mat_U+1F6AA_layer02_obj00
+Kd 0.948965 0.547993 0.041452
+Ks 0.2 0.2 0.2
+d 1

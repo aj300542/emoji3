@@ -1,0 +1,18 @@
+
+# 物体 U+1F9E1_layer00_obj00 的独立材质
+newmtl mat_U+1F9E1_layer00_obj00
+Kd 1.000000 0.136099 0.012664
+Ks 0.2 0.2 0.2
+d 1
+
+# 物体 U+1F9E1_layer01_obj00 的独立材质
+newmtl mat_U+1F9E1_layer01_obj00
+Kd 0.701169 0.096266 0.009021
+Ks 0.2 0.2 0.2
+d 1
+
+# 物体 U+1F9E1_layer02_obj00 的独立材质
+newmtl mat_U+1F9E1_layer02_obj00
+Kd 1.000000 0.302125 0.069727
+Ks 0.2 0.2 0.2
+d 1

@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="zh">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>穿戴物品图鉴 👕</title>
+    <link rel="stylesheet" href="../js/emoji-font.css">
+    <link rel="stylesheet" href="../js/styles.css" />
+</head>
+
+<body>
+    <h1>穿戴物品图鉴 👗</h1>
+
+    <!-- 分类按钮组 -->
+    <div class="category-buttons">
+        <button id="object">返回物品主页</button>
+        <button onclick="renderCategory('tops')">上装</button>
+        <button onclick="renderCategory('buttoms')">下装</button>
+        <button onclick="renderCategory('accessories')">配饰</button>
+        <button onclick="renderCategory('footwear')">鞋履</button>
+        <button id="opennew">捐赠</button>
+
+    </div>
+
+    <!-- 展示区 -->
+    <div id="gallery" class="gallery"></div>
+
+    <!-- 弹窗 -->
+    <div id="popup">
+        <div id="popup-icon" style="font-size:45vh;"></div>
+        <div id="popup-name" style="font-size: 15vh; margin-top: 2vh;"></div>
+    </div>
+
+    <!-- 主脚本：加载分类数据并渲染 -->
+    <script>
+        const JSON_BASE_PATH = "../json/wearables/"; // ✅ 路径前缀抽离
+        const JSON_1 = "tops";
+
+
+    </script>
+
+    <script src="../js/renderCategory.js"></script>
+    <script src="../js/button.js"></script>
+    <script src="../js/pop.js"></script>
+    <script type="importmap">
+        {
+        "imports": {
+            "three": "https://cdn.jsdelivr.net/npm/three@0.150.1/build/three.module.js",
+            "RoomEnvironment": "https://cdn.jsdelivr.net/npm/three@0.150.1/examples/jsm/environments/RoomEnvironment.js"
+        }
+        }
+    </script>
+    <script type="module" src="../js/emojiobjs.js"></script>
+</body>
+
+</html>

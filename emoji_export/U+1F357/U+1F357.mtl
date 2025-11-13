@@ -1,0 +1,18 @@
+
+# 物体 U+1F357_layer00_obj00 的独立材质
+newmtl mat_U+1F357_layer00_obj00
+Kd 0.659224 0.659224 0.659224
+Ks 0.2 0.2 0.2
+d 1
+
+# 物体 U+1F357_layer01_obj00 的独立材质
+newmtl mat_U+1F357_layer01_obj00
+Kd 0.659224 0.250840 0.044553
+Ks 0.2 0.2 0.2
+d 1
+
+# 物体 U+1F357_layer02_obj00 的独立材质
+newmtl mat_U+1F357_layer02_obj00
+Kd 0.383775 0.141980 0.084642
+Ks 0.2 0.2 0.2
+d 1

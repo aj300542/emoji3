@@ -1,0 +1,50 @@
+{
+  "emoji_char": "\ud83e\udec2",
+  "emoji_code": "U+1FAC2",
+  "layers": [
+    {
+      "layer_index": 0,
+      "glyph_name": "glyph05906",
+      "color": {
+        "r": 83,
+        "g": 53,
+        "b": 102
+      },
+      "hex": "#533566",
+      "svg_file": "emoji_layer_00.svg"
+    },
+    {
+      "layer_index": 1,
+      "glyph_name": "glyph05907",
+      "color": {
+        "r": 113,
+        "g": 103,
+        "b": 164
+      },
+      "hex": "#7167a4",
+      "svg_file": "emoji_layer_01.svg"
+    },
+    {
+      "layer_index": 2,
+      "glyph_name": "glyph05908",
+      "color": {
+        "r": 99,
+        "g": 89,
+        "b": 148
+      },
+      "hex": "#635994",
+      "svg_file": "emoji_layer_02.svg"
+    },
+    {
+      "layer_index": 3,
+      "glyph_name": "glyph05909",
+      "color": {
+        "r": 107,
+        "g": 67,
+        "b": 139
+      },
+      "hex": "#6b438b",
+      "svg_file": "emoji_layer_03.svg"
+    }
+  ]
+}

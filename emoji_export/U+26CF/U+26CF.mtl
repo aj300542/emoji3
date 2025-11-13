@@ -1,0 +1,12 @@
+
+# 物体 U+26CF_layer00_obj00 的独立材质
+newmtl mat_U+26CF_layer00_obj00
+Kd 0.208360 0.056374 0.028991
+Ks 0.2 0.2 0.2
+d 1
+
+# 物体 U+26CF_layer01_obj00 的独立材质
+newmtl mat_U+26CF_layer01_obj00
+Kd 0.464741 0.420508 0.511398
+Ks 0.2 0.2 0.2
+d 1

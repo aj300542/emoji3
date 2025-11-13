@@ -1,0 +1,18 @@
+
+# 物体 U+1F507_layer00_obj00 的独立材质
+newmtl mat_U+1F507_layer00_obj00
+Kd 0.464741 0.420508 0.511398
+Ks 0.2 0.2 0.2
+d 1
+
+# 物体 U+1F507_layer01_obj00 的独立材质
+newmtl mat_U+1F507_layer01_obj00
+Kd 0.618686 0.560499 0.680020
+Ks 0.2 0.2 0.2
+d 1
+
+# 物体 U+1F507_layer02_obj00 的独立材质
+newmtl mat_U+1F507_layer02_obj00
+Kd 0.940601 0.026549 0.024223
+Ks 0.2 0.2 0.2
+d 1

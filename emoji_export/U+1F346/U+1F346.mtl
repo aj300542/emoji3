@@ -1,0 +1,18 @@
+
+# 物体 U+1F346_layer00_obj00 的独立材质
+newmtl mat_U+1F346_layer00_obj00
+Kd 0.267358 0.051122 0.453456
+Ks 0.2 0.2 0.2
+d 1
+
+# 物体 U+1F346_layer01_obj00 的独立材质
+newmtl mat_U+1F346_layer01_obj00
+Kd 0.000000 0.652370 0.144972
+Ks 0.2 0.2 0.2
+d 1
+
+# 物体 U+1F346_layer02_obj00 的独立材质
+newmtl mat_U+1F346_layer02_obj00
+Kd 0.511398 0.378676 0.835528
+Ks 0.2 0.2 0.2
+d 1
