@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="zh">
+
+<head>
+  <meta charset="utf-8">
+  <title>源代码下载</title>
+  <style>
+    body {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      background-color: #000;
+      color: #fb7c00;
+      font-family: 'Nixiebold-mini', Arial, sans-serif;
+      letter-spacing: 0.4em;
+      line-height: 1.5em;
+      text-align: center;
+    }
+
+    h2 {
+      font-size: 4vh;
+      margin-bottom: 2vh;
+    }
+
+    #selected-emoji {
+      font-size: 12vh;
+      margin-bottom: 2vh;
+    }
+
+    .cover-small-left {
+      position: absolute;
+      top: 5vh;
+      right: 5vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      z-index: 9;
+    }
+
+    .cover-small-left img {
+      width: 20vh;
+      border-radius: 2vh;
+      margin-top: 1vh;
+    }
+
+    .qr-group {
+      display: flex;
+      gap: 5vh;
+      margin-top: 4vh;
+    }
+
+    .qr-group img {
+      height: 30vh;
+      border-radius: 2vh;
+    }
+
+    .download-box {
+      margin-top: 3vh;
+      font-size: 2.5vh;
+    }
+
+    .download-box a {
+      display: inline-block;
+      margin-top: 1vh;
+      padding: 1vh 3vh;
+      background-color: #fb7c00;
+      color: #000;
+      border-radius: 1vh;
+      text-decoration: none;
+      font-weight: bold;
+    }
+
+    .download-box a:hover {
+      background-color: #ffa733;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="cover-small-left">
+    <div>主页集锦</div>
+    <a href="https://aj300542.github.io" target="_blank">
+      <img src="img/1711604188130.jpg" alt="返回主页">
+    </a>
+  </div>
+
+  <h2>源代码下载</h2>
+  <div id="selected-emoji">🔧</div>
+  <p>你的支持是我前进的动力，谢谢支持</p>
+
+  <div class="download-box" id="download-box">
+    <!-- 下载信息将在 JS 中填充 -->
+  </div>
+
+  <div class="qr-group">
+    <img src="img/mm_facetoface_collect_qrcode_1711603406115.png" alt="二维码1">
+    <img src="img/luohan.png" alt="二维码2">
+  </div>
+
+<script>
+  const params = new URLSearchParams(window.location.search);
+  const emoji = params.get('emoji');
+  const emojiEl = document.getElementById('selected-emoji');
+  const downloadBox = document.getElementById('download-box');
+
+  if (emoji) {
+    const decoded = decodeURIComponent(emoji);
+    emojiEl.textContent = decoded;
+
+    const codes = [...decoded].map(c => 'U+' + c.codePointAt(0).toString(16).toUpperCase());
+    const filtered = codes.filter(c => c !== 'U+200D' && c !== 'U+FE0F');
+    const code = filtered[0];
+    const objPath = `emoji_export/${code}/${code}.obj`;
+    const mtlPath = `emoji_export/${code}/${code}.mtl`;
+
+    // 异步加载 emoji 名称映射
+    fetch('emojiNames.json')
+      .then(response => response.json())
+      .then(mapping => {
+        const names = mapping[decoded] || ['未知物品'];
+        const nameLine = names.join('，');
+        downloadBox.innerHTML = `
+          <div>物品名称：<strong>${nameLine}</strong></div>
+          <div>OBJ 文件路径：<code>${objPath}</code></div>
+          <div>MTL 文件路径：<code>${mtlPath}</code></div>
+          <div style="margin-top:2vh;">
+            <a href="${objPath}" download style="margin-right:2vh;">立即下载 OBJ 文件</a>
+            <a href="${mtlPath}" download>立即下载 MTL 文件</a>
+          </div>
+        `;
+      })
+
+      .catch(err => {
+        console.error('无法加载 emoji 名称映射文件', err);
+        downloadBox.innerHTML = `
+          <div>物品名称：<strong>未知物品</strong></div>
+          <div>OBJ 文件路径：<code>${objPath}</code></div>
+          <div>MTL 文件路径：<code>${mtlPath}</code></div>
+          <div style="margin-top:2vh;">
+            <a href="${objPath}" download style="margin-right:2vh;">立即下载 OBJ 文件</a>
+            <a href="${mtlPath}" download>立即下载 MTL 文件</a>
+          </div>
+        `;
+      });
+  } else {
+    downloadBox.innerHTML = `<div>未指定 emoji，无法生成下载链接。</div>`;
+  }
+</script>
+
+</body>
+
+</html>
